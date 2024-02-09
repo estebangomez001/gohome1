@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 matplotlib
-=======
-matplotlib
->>>>>>> 69c6c3ea5ae3bf82f7c2c402e5f6327c32fba61c
